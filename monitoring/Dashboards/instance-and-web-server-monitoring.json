@@ -1,6 +1,6 @@
 {
-    "title":"Instance Dashboard",
-    "description":"## Description",
+    "title":"EC2 Dashboard",
+    "description":"## EC2 Dashboard for one AWS account",
     "widgets":[
        {
           "id":6104469617510232,
@@ -663,7 +663,7 @@
                 {
                    "id":3556520922353578,
                    "definition":{
-                      "title":"Postgresql usage_connections",
+                      "title":"Postgresql Usage Connections",
                       "title_size":"16",
                       "title_align":"left",
                       "show_legend":true,
